@@ -1,7 +1,4 @@
 
-[]: # Language: python
-[]: # Path: README.md
-
 # Algorithm
 
 ```py
